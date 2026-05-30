@@ -24,4 +24,4 @@ Before publishing forks or examples, review any added logs or screenshots for pe
 
 ## License
 
-No license has been selected yet.
+MIT

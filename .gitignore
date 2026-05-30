@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+*.log
+*.sqlite
+*.sqlite3
+*.db
+.env
+.env.*
+secrets.*
+private.*
